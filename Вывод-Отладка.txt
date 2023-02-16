@@ -1,0 +1,14 @@
+﻿"laba1_2.exe" (Win32). Загружено "C:\Users\Влад\Desktop\Софт\Важный\laba1_2\Debug\laba1_2.exe". Символы загружены.
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x40bc завершился с кодом 0 (0x0).
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"laba1_2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x4008 завершился с кодом 0 (0x0).
+Поток 0x2510 завершился с кодом 0 (0x0).
+Программа "[11848] laba1_2.exe" завершилась с кодом 0 (0x0).
